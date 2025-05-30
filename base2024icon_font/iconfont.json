@@ -1,0 +1,72 @@
+{
+  "id": "4643196",
+  "name": "2024数字工信",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12752049",
+      "name": "点赞",
+      "font_class": "dianzan_huaban",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1183028",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "12813997",
+      "name": "收藏",
+      "font_class": "shoucang2",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1278182",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "3996608",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "32243115",
+      "name": "日期 日历",
+      "font_class": "a-riqirili",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "445013",
+      "name": "提交",
+      "font_class": "tijiao",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "13886698",
+      "name": "匹配产品",
+      "font_class": "pipeichanpin",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "39893954",
+      "name": "填写",
+      "font_class": "a-zu1687",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    }
+  ]
+}
